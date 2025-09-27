@@ -21,7 +21,7 @@ Storage: IPFS (for NFT metadata/images)
 
 Clone the repository:
 
-git clone https://github.com/your-username/RoboPunksNFT.git
+git clone https://github.com/haresh-r2103/RoboPunksNFT.git
 cd RoboPunksNFT
 
 
